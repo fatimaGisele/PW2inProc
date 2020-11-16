@@ -1,0 +1,23 @@
+[
+    {
+        "id_comentario": "1",
+        "mail": "maca@gmail.com",
+        "comentario": "Buenardo producto",
+        "valoracion": 5,
+        "id_producto": "1"
+    },
+    {
+        "id_comentario": "2",
+        "mail": "soysushi@hotmail.com",
+        "comentario": "Por el momento bien. Cumple con las expectativas",
+        "valoracion": 4,
+        "id_producto": "1"
+    },
+    {
+        "id_comentario": "3",
+        "mail": "elet@hotmail.com",
+        "comentario": "No cumple con las expectativas y encima está re saladix",
+        "valoracion": 3,
+        "id_producto": "1"
+    }
+]

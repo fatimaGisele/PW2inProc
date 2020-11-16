@@ -1,0 +1,252 @@
+
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+/*font-family: 'Hind Madurai', sans-serif;
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;*/
+
+/*----------------------------- CSS CORRESPONDIENTE A PRODUCTO.PHP---------------------------------------*/
+.producto-img{
+    height: 500px;
+}
+
+.imagen .producto-img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.marca-modelo{
+    font-size: 80%;
+}
+
+.descripcion{
+    padding-top: 80px;
+}
+
+.boton-comprar{
+    width: 100%;
+    color: #25545C;
+    background-color: #FFFBD3;
+    text-align: center;
+    border: 1px solid #FFAD3D;
+    display: block;
+    padding: 4px;
+}
+
+.boton-comprar:hover{
+    background-color: #25545C;
+    color: #FFFBD3;
+    text-align: center;
+    border: 1px solid #FFAD3D;
+}
+
+.producto-entrega {
+    padding-top: 1px;
+}
+
+.producto-entrega i{
+    float: left;
+    font-size: 25px;
+    line-height: 18px;
+}
+
+.producto-entrega p{
+    border: 1px solid #FFAD3D;
+    padding: 1rem;
+    margin-bottom: 0mm;
+    text-align: center;
+}
+
+.fondo-formulario {
+    background-color: #25545C;
+}
+
+#formulario input{
+    display: block;
+    width: 50%;
+}
+
+.form02 p{
+    color: #CADFC5;
+}
+textarea{
+    display: block;
+    width: 50%;
+    height: 100px;
+}
+
+.boton-formulario{
+    text-align: center;
+    border: 1px solid  #FFAD3D;
+    display: block;
+    padding: 4px;
+    color: #CADFC5;
+    background-color: #25545C;
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.boton-formulario:hover{
+    text-align: center;
+    border: 1px solid  #FFAD3D;
+    display: block;
+    padding: 4px;
+    background-color: #CADFC5;
+    color: #25545C;
+}
+
+/*-------------------------------------------CSS HEADER---------------------------------------*/
+.Color,
+nav .navbar{
+    background-color: #25545C;
+}
+
+nav .nav-link,
+input .form-control{
+    color: #CADFC5;
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 1.2rem;
+}
+
+.nav-link:hover{
+    border: 1px solid  #FFAD3D;
+    border-radius: 10px;
+}
+
+.navbar-toggler{
+    border: 1px solid  #FFAD3D;
+    background-color: #CADFC5;
+    color: #25545C;
+}
+
+.navbar-toggler:active{
+    border: 1px solid  #FFAD3D;
+}
+
+/*------------------------------------------CSS BODY--------------------------------------*/
+body{
+    background-color: #CADFC5;
+    color: #25545C;
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+h1, h4{
+    font-family: 'Lora', serif;
+}
+h1{
+    font-size: 3.5rem;
+}
+
+h4{
+    color:#FFAD3D;
+}
+#navbarDropdown{
+    background-color: #CADFC5;
+    color: #25545C;
+    font-size: 1.2rem;
+}
+
+.dropdown-menu,.dropdown-menu .dropdown-item{
+    color: #CADFC5;
+    background-color: #25545C;
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 1.2rem;
+}
+
+.btn{
+    color: #CADFC5;
+    background-color: #25545C;
+    font-family: 'Hind Madurai', sans-serif;
+    border: 1px solid  #FFAD3D;
+}
+
+.btn:hover{
+    background-color: #CADFC5;
+    color: #25545C;
+    border: 1px solid  #FFAD3D;
+}
+
+.btn:active{
+    background-color: #CADFC5;
+    color: #25545C;
+    border: 1px solid  #FFAD3D;
+}
+.card{
+    height: 620px;
+}
+
+textarea {
+    resize: none;
+  }
+
+.email-ayuda {
+    font-style: italic;
+  }
+
+/*-------------------------------------------CSS FOOTER--------------------------------------------------------------*/
+.social{
+    display: inline-flex;
+}
+
+.menu{
+    display: flex;
+}
+
+.menu li,
+.social li,
+.dropdown,
+.integrantes li,
+.lala li{
+     list-style: none;
+}
+
+.social li a{
+    text-decoration: none;
+    color: #CADFC5;
+}
+
+.social{
+    font-size: 2.5rem;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.menu{
+    font-size: 1.2rem;
+    flex-direction: column;
+    align-items: center;
+    color: #CADFC5;
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.integrantes{
+    font-size: 1.2rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #CADFC5;
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.lala{
+    font-size: 1.2rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #CADFC5;
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+#footer{
+    background-color: #25545C;
+    bottom: 0;
+    height: 260px;
+    font-family: 'Hind Madurai', sans-serif;
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id_categoria": "1",
+        "nombre": "Tablets",
+        "id_producto": "-",
+        "id_marca":"-"
+    },
+    {
+        "id_marca": "2",
+        "nombre": "Celulares",
+        "id_producto": "-",
+        "id_categoria":"-"
+    },
+    {
+        "id_marca": "3",
+        "nombre": "Audio",
+        "id_producto": "1",
+        "id_categoria":"1"
+    },
+    {
+        "id_marca": "4",
+        "nombre": "TV",
+        "id_producto": "1",
+        "id_categoria":"1"
+    }
+]

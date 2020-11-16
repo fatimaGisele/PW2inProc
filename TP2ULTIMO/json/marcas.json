@@ -1,0 +1,38 @@
+[
+    {
+        "id_marca": "1",
+        "nombre": "Apple",
+        "id_producto": "-",
+        "id_categoria":"-"
+    },
+    {
+        "id_marca": "2",
+        "nombre": "Samsung",
+        "id_producto": "-",
+        "id_categoria":"-"
+    },
+    {
+        "id_marca": "3",
+        "nombre": "Noblex",
+        "id_producto": "1",
+        "id_categoria":"1"
+    },
+    {
+        "id_marca": "4",
+        "nombre": "Huawei",
+        "id_producto": "1",
+        "id_categoria":"1"
+    },
+    {
+        "id_marca": "5",
+        "nombre": "Philips",
+        "id_producto": "1",
+        "id_categoria":"1"
+    },
+    {
+        "id_marca": "6",
+        "nombre": "JBL",
+        "id_producto": "1",
+        "id_categoria":"1"
+    }
+]

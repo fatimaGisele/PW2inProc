@@ -1,0 +1,182 @@
+{
+    "1": {
+        "id_producto": 1,
+        "nombre": "Iphone 11 128 GB",
+        "marca": "Apple",
+        "precio": 180000,
+        "descripcion": "Cuenta con 4GB de memoria y 128GB de almacenamiento interno. Posee dos c\u00e1maras traseras.",
+        "modelo": 2019,
+        "id_categoria": 1
+    },
+    "2": {
+        "id_producto": 2,
+        "nombre": "Samsung J7",
+        "marca": "Samsung",
+        "precio": 45000,
+        "descripcion": "Cuenta con 4GB de memoria y 128GB de almacenamiento interno. Posee dos c\u00e1maras traseras.",
+        "modelo": 2015,
+        "id_categoria": 1
+    },
+    "3": {
+        "id_producto": 3,
+        "nombre": "Samsung S20",
+        "marca": "Samsung",
+        "precio": 80000,
+        "descripcion": "Cuenta con 4GB de memoria y 128GB de almacenamiento interno. Posee dos c\u00e1maras traseras.",
+        "modelo": 2020,
+        "id_categoria": 1
+    },
+    "4": {
+        "id_producto": 4,
+        "nombre": "Huawei P30",
+        "marca": "Huawei",
+        "precio": 120000,
+        "descripcion": "Cuenta con 4GB de memoria y 128GB de almacenamiento interno. Posee dos c\u00e1maras traseras.",
+        "modelo": 2019,
+        "id_categoria": 1
+    },
+    "5": {
+        "id_producto": 5,
+        "nombre": "Iphone 7 Plus",
+        "marca": "Apple",
+        "precio": 80000,
+        "descripcion": "Cuenta con 4GB de memoria y 128GB de almacenamiento interno. Posee dos c\u00e1maras traseras.",
+        "modelo": 2016,
+        "id_categoria": 1
+    },
+    "6": {
+        "id_producto": 6,
+        "nombre": "Smart TV Noblex 50' 4K DJ50X6500",
+        "marca": "Noblex",
+        "precio": 52999,
+        "descripcion": "Cuenta con resoluci\u00f3n 4K",
+        "modelo": 2018,
+        "id_categoria": 2
+    },
+    "7": {
+        "id_producto": 7,
+        "nombre": "Smart TV Samsung 43' 4K UN43RU7100",
+        "marca": "Samsung",
+        "precio": 47999,
+        "descripcion": "Cuenta con resoluci\u00f3n 4K",
+        "modelo": 2019,
+        "id_categoria": 2
+    },
+    "8": {
+        "id_producto": 8,
+        "nombre": "Smart TV Philips 43' Full HD 43PFG5813\/77",
+        "marca": "Philips",
+        "precio": 38999,
+        "descripcion": "Cuenta con resoluci\u00f3n Full HD",
+        "modelo": 2017,
+        "id_categoria": 2
+    },
+    "9": {
+        "id_producto": 9,
+        "nombre": "Smart TV Samsung 32' HD UN32J4290AGCZB",
+        "marca": "Samsung",
+        "precio": 25999,
+        "descripcion": "Cuenta con resoluci\u00f3n Full HD",
+        "modelo": 2018,
+        "id_categoria": 2
+    },
+    "10": {
+        "id_producto": 10,
+        "nombre": "Smart TV Samsung 75' 4K UN75RU7100G",
+        "marca": "Samsung",
+        "precio": 129999,
+        "descripcion": "Cuenta con resoluci\u00f3n 4K",
+        "modelo": 2020,
+        "id_categoria": 2
+    },
+    "11": {
+        "id_producto": 11,
+        "nombre": "Tablet Samsung SMP610 10.4' 64GB",
+        "marca": "Samsung",
+        "precio": 44999,
+        "descripcion": "Disfrut\u00e1 de gr\u00e1ficos con una resoluci\u00f3n de hasta 2000x1200 en la pantalla de 10.4 pulgadas.",
+        "modelo": 2020,
+        "id_categoria": 3
+    },
+    "12": {
+        "id_producto": 12,
+        "nombre": "Apple Ipad 10,2' Space Grey 128 GB",
+        "marca": "Apple",
+        "precio": 86999,
+        "descripcion": "Disfrut\u00e1 de gr\u00e1ficos con una resoluci\u00f3n de hasta 2000x1200 en la pantalla de 10.4 pulgadas.",
+        "modelo": 2018,
+        "id_categoria": 3
+    },
+    "13": {
+        "id_producto": 13,
+        "nombre": "Tablet Samsung Galaxy Tab A 10.1' Plateado 32 GB",
+        "marca": "Samsung",
+        "precio": 28999,
+        "descripcion": "Disfrut\u00e1 de gr\u00e1ficos con una resoluci\u00f3n de hasta 2000x1200 en la pantalla de 10.4 pulgadas.",
+        "modelo": 2019,
+        "id_categoria": 3
+    },
+    "14": {
+        "id_producto": 14,
+        "nombre": "Apple Ipad Mini 5 7.9' Space Grey 256 GB",
+        "marca": "Apple",
+        "precio": 195800,
+        "descripcion": "Disfrut\u00e1 de gr\u00e1ficos con una resoluci\u00f3n de hasta 2000x1200 en la pantalla de 10.4 pulgadas.",
+        "modelo": 2019,
+        "id_categoria": 3
+    },
+    "15": {
+        "id_producto": 15,
+        "nombre": "Tablet Asus Memo Pad ME176CX Z3745 7' Intel Blanco 16 GB",
+        "marca": "Asus",
+        "precio": 12999,
+        "descripcion": "Disfrut\u00e1 de gr\u00e1ficos con una resoluci\u00f3n de hasta 2000x1200 en la pantalla de 10.4 pulgadas.",
+        "modelo": 2018,
+        "id_categoria": 3
+    },
+    "16": {
+        "id_producto": 16,
+        "nombre": "Barra de Sonido Philips HTL1508\/12",
+        "marca": "Philips",
+        "precio": 13999,
+        "descripcion": "Disfrut\u00e1 de sonido sorround de gran calidad.",
+        "modelo": 2018,
+        "id_categoria": 4
+    },
+    "17": {
+        "id_producto": 17,
+        "nombre": "Barra de Sonido JBL Psb-1",
+        "marca": "JBL",
+        "precio": 28999,
+        "descripcion": "Disfrut\u00e1 de sonido sorround de gran calidad.",
+        "modelo": 2019,
+        "id_categoria": 4
+    },
+    "18": {
+        "id_producto": 18,
+        "nombre": "Barra de Sonido JBL Soundbar bar Studio",
+        "marca": "JBL",
+        "precio": 21999,
+        "descripcion": "Disfrut\u00e1 de sonido sorround de gran calidad.",
+        "modelo": 2020,
+        "id_categoria": 4
+    },
+    "19": {
+        "id_producto": 19,
+        "nombre": "Barra de Sonido Sony HT S100F",
+        "marca": "Sony",
+        "precio": 23999,
+        "descripcion": "Disfrut\u00e1 de sonido sorround de gran calidad.",
+        "modelo": 2017,
+        "id_categoria": 4
+    },
+    "20": {
+        "id_producto": 20,
+        "nombre": "Barra de Sonido Sony HT-S500RF",
+        "marca": "Sony",
+        "precio": 64999,
+        "descripcion": "Disfrut\u00e1 de sonido sorround de gran calidad.",
+        "modelo": 2019,
+        "id_categoria": 4
+    }
+}
